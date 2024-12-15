@@ -87,13 +87,13 @@ A shallow facade, where complexity lies naive.
 
 **"Namespaces are one honking great idea -- let's do more of those!"**  
 But beware the global scope, where chaos freely flows.  
-'Coz in Python's land, variables roam unrestrained,  
+'Coz in Python's rich land, variables roam unrestrained,  
 And unintended consequences, forever unchained.
 
 **"Batteries included,"** they boast, a tempting proposition,  
 But dependency hell awaits, as a nuclear fission.  
 Pip, conda, poetry, all the radioactive waste,  
-Where conflicting versions leave a bitter taste.
+Where conflicting versions leave a slim bitter taste.
 
 Ah, the Chaos of Python, a language of paradox, it's true,  
 Where Zen's a drunken master, and contradictions ensue.  
